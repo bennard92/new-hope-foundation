@@ -1,0 +1,14 @@
+{
+	margin: 0;
+	padding: 10px;
+	box-sizing: border-box;
+}
+body{
+	text-align: center;
+	background:paleturquoise;
+	font-family: sans-serif;
+}
+header{
+	padding: 20px;
+
+}
